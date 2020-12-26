@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white">
 </p> 
 
 <p align="center">Learn from now on</p>
