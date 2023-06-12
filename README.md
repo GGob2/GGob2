@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Myungjoe%20Kang&fontSize=90&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=MyungJoe%20Kang&fontSize=90&fontColor=black)
 
 <h3 align="center">⚡ Tech ⚡ </h3>
 
